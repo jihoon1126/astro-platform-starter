@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [ ],
+      "details": [
+      {
+        "appID": "84YJ924DH6.net.openbadge.obwalletapp",
+        "paths": [ "/oidc-callback/*" ]
+      }
+    ]
+  }
+}
